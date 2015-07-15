@@ -1,5 +1,14 @@
 # Pure Ruby HTML Generator
-
+/Users/khomgrit/ruby_view_server/block_example.rb
+/Users/khomgrit/ruby_view_server/boolean_logic_cheatsheet.rb
+/Users/khomgrit/ruby_view_server/erb_example.rb
+/Users/khomgrit/ruby_view_server/page_generator_with_layout.rb
+/Users/khomgrit/ruby_view_server/page_generator.rb
+/Users/khomgrit/ruby_view_server/public
+/Users/khomgrit/ruby_view_server/readme.md
+/Users/khomgrit/ruby_view_server/server_advanced.rb
+/Users/khomgrit/ruby_view_server/server_simple.rb
+/Users/khomgrit/ruby_view_server/views
 ## What?
 
 Part of my [UT on Rails course](http://schneems.com/ut-rails). Use pure ruby and standard libraries to perform a few basic functions to generate useful html pages using as little code as possible.
